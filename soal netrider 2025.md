@@ -1,6 +1,11 @@
 
+#Netrider 2025
+
+bahan belajar(selesaikan semua final examnya):
+https://itexamanswers.net/ccna-v7
 
 
+soal netrider 2025:
 
 ```
 Which TCP flag is responsible for resetting the connection when an error or timeout occurs?
