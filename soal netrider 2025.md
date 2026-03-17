@@ -16,7 +16,8 @@ RST
 Which of following is a valid IPv6 unique local address? Maximum Attempts : 1 Select one from the below choices: 
 FECE:1234::1 
 FEBE:ACAD::1 
-2023:FD25::1/64 FD12:3456:789a::/64
+2023:FD25::1/64 
+FD12:3456:789a::/64
 ```
 FD12:3456:789a::/64
 
